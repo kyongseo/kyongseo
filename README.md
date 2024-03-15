@@ -80,10 +80,10 @@
 
 ## 🔭 I’m currently working on 🔭
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyounggseo&exclude_repo=kyounggseo.github.io&layout=compact&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyongseo&exclude_repo=kyongseo.github.io&layout=compact&theme=merko" />
 </a> <!-- theme=tokyonight -->
 
 <a href="s">
  
- [![KyongSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyounggseo&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/kyounggseo/github-readme-stats)
+ [![KyongSeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyongseo&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/kyongseo/github-readme-stats)
 </a>
