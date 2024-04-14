@@ -5,10 +5,12 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyounggseo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
   <br>
-<h1 align="center"> kyongseo park </h1>
-<h3 align="center"> Hi there 👋 <br/>
-  My name is Kyongseo Park! </h3>
-                                   
+
+<h2>👋 HI! I'm kyongseo </h2>
+  
+💁 어떻게 해야하는지 HOW에 대해서 고민하는 개발자 kyongseo 입니다. 문제를 찾아 헤매는 것을 좋아해요! 🤔
+  <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
+                       
 <br/>
 
   ## 🦋 Tech Stack 🦋
