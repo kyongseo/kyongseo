@@ -7,11 +7,11 @@
   <br>
 
 <h2>👋 HI! I'm kyongseo </h2>
-  
+  <!--
 💁 어떻게 해야하는지 HOW에 대해서 고민하는 개발자 kyongseo 입니다. 문제를 찾아 헤매는 것을 좋아해요! 🤔
   <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
  
-<!--  ## 📚 Experience
+  ## 📚 Experience
 - 🎓 INCHEON NATIONAL UNIVERSITY , telecommunication engineering  
 - 🏢  -->
                        
