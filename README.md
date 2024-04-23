@@ -4,25 +4,32 @@
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyounggseo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-  <br>
+  <br/>
+  <br/>
+<!--
+<h2>👋 HI! I'm kyongseo </h2> 
+ 
 
-<h2>👋 HI! I'm kyongseo </h2>
-  <!--
 💁 어떻게 해야하는지 HOW에 대해서 고민하는 개발자 kyongseo 입니다. 문제를 찾아 헤매는 것을 좋아해요! 🤔
   <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
  
   ## 📚 Experience
-- 🎓 INCHEON NATIONAL UNIVERSITY , telecommunication engineering  
-- 🏢  -->
+ 🎓 INCHEON NATIONAL UNIVERSITY , Telecommunication engineering   <br/>
+ 🥇 한국수자원공사 2022년 K-water 대국민 물 빅데이터 공모전 장려상 <br/>
+ 🏢 어플 화해 데이터사이언스팀 인턴 3개월 2023.07. ~ 2023.11. <br/>
+ 🏢 멋쟁이사자처럼 백엔드 스쿨 7기 2024.03. ~ ing  <br/>
+
+9-->
                        
 <br/>
-
-  ## 🦋 Tech Stack 🦋
-<h4 align="center"> Techs that I've used at least once </h4>
-
-<p align="center">
+<br/>
 
   <!-- Language -->
+
+ ## 🦋 Tech Stack 🦋
+
+<p align="center">
+ 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
