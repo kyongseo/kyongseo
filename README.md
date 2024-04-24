@@ -6,26 +6,23 @@
  
   <br/>
   <br/>
+  
 <!--
 <h2>👋 HI! I'm kyongseo </h2> 
  
-
-💁 어떻게 해야하는지 HOW에 대해서 고민하는 개발자 kyongseo 입니다. 문제를 찾아 헤매는 것을 좋아해요! 🤔
-  <br> ✍🏻 공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! 
+안녕하세요! 💁 <br/> 
+문제를 찾아 헤매는 것을 좋아하는 개발자 KyongSeo입니다! 🤔 <br/> 
+공유하고 기록하는 것을 좋아해요. 최대한 많은 다양한 사람과 소통하고 싶어요! ✍🏻 
+  <br/> 
  
   ## 📚 Experience
- 🎓 INCHEON NATIONAL UNIVERSITY , Telecommunication engineering   <br/>
+ 🎓 INCHEON NATIONAL UNIVERSITY , Telecommunication engineering (2024.08 졸업예정) // (2025.02 졸업예정)  <br/>
  🥇 한국수자원공사 2022년 K-water 대국민 물 빅데이터 공모전 장려상 <br/>
  🏢 어플 화해 데이터사이언스팀 인턴 3개월 2023.07. ~ 2023.11. <br/>
  🏢 멋쟁이사자처럼 백엔드 스쿨 7기 2024.03. ~ ing  <br/>
-
-9-->
-                       
-<br/>
-<br/>
+-->
 
   <!-- Language -->
-
  ## 🦋 Tech Stack 🦋
 
 <p align="center">
@@ -42,8 +39,9 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white" />
-<!--  <img src="https://img.shields.io/badge/Tensorflor-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <!--  <img src="https://img.shields.io/badge/Tensorflor-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> -->
+  
   <br/>
  
   <!-- Develope Tool -->
@@ -52,11 +50,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/>
   <br/>
-
-  <!-- tool 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-</p>-->
+  
   <br/>
   
   ## 🐬 Cowork Tools 🐬
@@ -66,7 +60,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 <br/>
-
 
   ## 📫 How to reach me ...
 <p align="center">
