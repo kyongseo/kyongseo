@@ -50,7 +50,7 @@
 
   ## 📫 How to reach me ...
 <p align="center">
-  <a href="https://eesko.tistory.com1/"><img src="https://img.shields.io/badge/-Tistory-brightgreen">
+  <a href="https://eesko.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-brightgreen">
   <a href="mailto:pokj930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
 <br/>
