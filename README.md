@@ -1,7 +1,6 @@
 <div align="center">
- <!-- ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=kyongseo'Space👋&fontColor=FEF1E6&fontSize=100) -->
-
-![ks's 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyongseo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
+ <!-- ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=kyongseo'Space👋&fontColor=FEF1E6&fontSize=100) 
+![ks's 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyongseo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true) -->
 
  ## 🦋 Tech Stack 🦋
 
