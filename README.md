@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyongseo&langs_count=10&layout=compact&hide=css,html&count_private=true&cache_seconds=1800)
 
-<img src="https://velog-github-badge.vercel.app/badge/kyongseo">
+<img src="https://velog-github-badge.vercel.app/badge/kyonggseo">
 
 </br>
 
