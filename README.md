@@ -11,7 +11,7 @@
 
 </br>
 
-[velog](https://velog.io/@kyongseo/posts)
+[velog](https://velog.io/@kyonggseo/posts)
 
  </div>
 <!--
