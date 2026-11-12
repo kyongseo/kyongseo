@@ -23,12 +23,12 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/kyongseo">
         <img src="https://github-readme-stats.vercel.app/api?username=kyongseo&show_icons=true" alt="KyongSeo's Stats" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/kyongseo">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyongseo&layout=compact&hide=css,html" alt="Top Langs" />
       </a>
     </td>
@@ -36,6 +36,7 @@
 </table>
 
 </div>
+
 ## <div align="center">Blog 🌱</div>
 <div align="center">
   <a href="https://eesko.tistory.com/">
