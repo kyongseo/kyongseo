@@ -1,9 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=150&text=KyongSeo's%20GitHub&fontSize=100&animation=twinkling&fontColor=ffffff)
 
-## <div align="center">Interested Tech Stack and Tools 🛠️</div>
+<!-- <h2>👋 HI! I'm KyongSeo </h2>
+  
+💁 난 뭐가 되고 싶은걸까? 고민중 ~  -->
 
+
+## 🛠️ Tech Stack and Tools 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" alt="Spring Badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=OpenJDK&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="Redis Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL Badge"/>
@@ -14,32 +21,19 @@
 
 </br>
 
-<div align="center">
+## 🏢 Experience
 
-<table border="0">
-  <tr>
-    <td align="center"><b>GitHub Stats</b></td>
-    <td align="center"><b>Top Languages</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kyongseo">
-        <img src="https://github-readme-stats.vercel.app/api?username=kyongseo&show_icons=true" alt="KyongSeo's Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kyongseo">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyongseo&layout=compact&hide=css,html" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
+</br>
 
-</div>
-
-## <div align="center">Blog 🌱</div>
+## 📲 Contact
 <div align="center">
   <a href="https://eesko.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Badge"/>
+  <img
+  src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://eesko.tistory.com/"
+  style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a> 
+  <a href="mailto:pokj9800113@gmail.com"> <img
+  src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pokj9800113@gmail.com"
+  style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   </a>
 </div>
