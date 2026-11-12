@@ -16,10 +16,26 @@
 
 <div align="center">
 
-[![KyongSeo's github stats](https://github-readme-stats.vercel.app/api?username=kyongseo)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyongseo&langs_count=10&layout=compact&hide=css,html&count_private=true&cache_seconds=1800)
+<table border="0">
+  <tr>
+    <td align="center"><b>GitHub Stats</b></td>
+    <td align="center"><b>Top Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=kyongseo&show_icons=true" alt="KyongSeo's Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyongseo&layout=compact&hide=css,html" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
+</div>
 ## <div align="center">Blog 🌱</div>
 <div align="center">
   <a href="https://eesko.tistory.com/">
