@@ -7,21 +7,20 @@
 
 ## 🛠️ Tech Stack and Tools 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" alt="Spring Badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=OpenJDK&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Python-ED5B00?style=flat&logo=Python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" alt="Spring Badge"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
+   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="Redis Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white" alt="AWS Badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
 </div>
 
 </br>
-
+<!--
 ## 🏢 Experience
+-->
 
 </br>
 
